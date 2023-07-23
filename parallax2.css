@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parallax-1{
+    width: 100%;
+    height: 500px;
+    background:url(https://www.aceinfoway.com/blog/wp-content/uploads/2020/07/front-end-developer.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallax-1 h2{
+    margin: auto;
+    position: relative;
+    left: 1px;
+    top: 300px;
+    width: 250px;
+    height: 32px;
+    padding: 10px;
+    background-color: #4caf50;
+    color:black;
+    text-align: center;
+}
+
+.parallax-2{
+    width: 100%;
+    height: 500px;
+    background: url(https://www.mindinventory.com/blog/wp-content/uploads/2022/10/frontend-development-tools.png);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.parallax-2 h2{
+    margin: auto;
+    position: relative;
+    left: 1px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: #4caf50;
+    color:black;
+    text-align: center;
+}
+
+.para-1{
+    background-color: lemonchiffon;
+    color: black;
+    padding:50px;
+    font-size: 2vh;
+}
+
+.para-2{
+    background-color: lemonchiffon;
+    color: black;
+    padding:50px;
+    font-size: 2vh;
+}
